@@ -42,7 +42,7 @@ export const personalInfo = {
   phone: "+91 6305889859",
   email: "mohammedabduljunaid007@gmail.com",
   github: "https://github.com/MohammedAbdul-Aziz",
-  linkedin: "https://www.linkedin.com/in/mohammed-abdul-aziz-ds-ml",
+  linkedin: "www.linkedin.com/in/mohammed-abdul-aziz-35a596342",
   summary: "Computer Science Engineering graduate with hands-on experience building end-to-end machine learning pipelines, predictive models, computer vision systems, and agentic AI applications. NPTEL-certified (IIT Madras, IIT Roorkee) with a Top 5% national score in Introduction to Machine Learning. Proficient in Python, SQL, and modern data science and machine learning frameworks, with practical experience applying Explainable AI (XAI) to make model outputs interpretable for real-world decisions."
 };
 
